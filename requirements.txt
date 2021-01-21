@@ -1,0 +1,14 @@
+numpy==1.14.1
+pandas==0.22.0
+pytest==5.2.0
+scikit-learn==0.19.1
+virtualenv
+virtualenv-clone
+virtualenvwrapper
+jupyter
+jupyter_core
+jupyter-client
+jupyter-console
+ipynb
+scipy
+prompt-toolkit
